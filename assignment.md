@@ -16,6 +16,9 @@ Answer:
 
 ```python
 dft.select_dtypes(include=['number'], exclude=['float64'])
+
+# new answer
+dft.select_dtypes(include=['number'], exclude=['float'])
 ```
 
 ### Question 2
